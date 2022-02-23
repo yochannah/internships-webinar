@@ -2,7 +2,7 @@
 
 Collated materils for ISCB BOSC webinar on building open source community using internship programs.
 
-- Slides: [Internships and open community building.pdf](Internships and open community building.pdf) Sorry the slide quality wasn't great in the recording!
+- Slides: [Internships and open community building.pdf](Internships%20and%20open%20community%20building.pdf) Sorry the slide quality wasn't great in the recording!
 - [Notes](notes.md)
 
 
